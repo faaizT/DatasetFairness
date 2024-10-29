@@ -1,0 +1,13 @@
+{
+    "input_dim": 12288,
+    "max_epochs": 1000,
+    "n_samples": 190000,
+    "lr": 0.00001,
+    "wd": 0.0,
+    "hidden_layer_size": 256,
+    "model_dir": "/root/model_results_sep_celeba_eo",
+    "model_dir_eop": "/root/model_results_sep_celeba_eop",
+    "ax_lims": [0.50, 0.935],
+    "ax_lims_y": [-0.001, 0.1],
+    "ax_lims_y_eop": [-0.001, 0.062]
+}

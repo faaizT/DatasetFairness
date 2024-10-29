@@ -1,0 +1,10 @@
+{
+    "input_dim": 1,
+    "max_epochs": 1000,
+    "n_samples": 10000,
+    "lr": 5e-05,
+    "wd": 0.0,
+    "hidden_layer_size": 16,
+    "model_dir": "/root/model_results_synth1dnoisy_sep_eo",
+    "model_dir_eop": "/root/model_results_sep_eop"
+}

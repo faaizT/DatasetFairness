@@ -1,0 +1,14 @@
+{
+    "input_dim": 9,
+    "max_epochs": 1000,
+    "n_samples": 50000,
+    "lr": 1e-05,
+    "hidden_layer_size": 512,
+    "film_hidden_size": 16,
+    "n_layers_film": 6,
+    "lambda_lb": 1e-05,
+    "lambda_ub": 5.0,
+    "per_batch_lambda": true,
+    "model_dir": "/root/model_results_yoto_eo",
+    "model_dir_eop": "/root/model_results_yoto_eop"
+}

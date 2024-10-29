@@ -1,0 +1,13 @@
+{
+    "input_dim": 12288,
+    "max_epochs": 1000,
+    "n_samples": 190000,
+    "lr": 0.00001,
+    "hidden_layer_size": 64,
+    "film_hidden_size": 256,
+    "n_layers_film": 4,
+    "lambda_lb": 1e-05,
+    "lambda_ub": 5.0,
+    "per_batch_lambda": true,
+    "model_dir": "/root/model_results_yotofixed_celeba"
+}

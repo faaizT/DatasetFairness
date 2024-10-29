@@ -1,0 +1,73 @@
+# .gitignore
+
+# Ignore everything in the plots folder
+plots/*
+
+# Ignore everything in the models folder
+models/*
+
+# Ignore everything in the wandb folder
+*wandb/*
+
+# Ignore Python compiled files
+*.py[cod]
+*__pycache__*
+
+# Ignore model files
+*.pyc
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# Machine learning: data and model files
+# *.csv
+*.tsv
+*.feather
+*.dill
+*.joblib
+*.h5
+*.onnx
+
+# Python artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Configuration files
+.pipenv
+.python-version
+.env
+.venv
+venv/
+ENV/
+
+# PyCharm, VS Code
+.idea/
+*.iml
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini

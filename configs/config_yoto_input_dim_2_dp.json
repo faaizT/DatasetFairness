@@ -1,0 +1,13 @@
+{
+    "input_dim": 2,
+    "max_epochs": 1000,
+    "n_samples": 10000,
+    "lr": 0.001,
+    "hidden_layer_size": 16,
+    "film_hidden_size": 16,
+    "n_layers_film": 2,
+    "lambda_lb": 1e-05,
+    "lambda_ub": 5.0,
+    "per_batch_lambda": true,
+    "model_dir": "/root/model_results_yoto_synth"
+}

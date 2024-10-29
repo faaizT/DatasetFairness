@@ -1,0 +1,13 @@
+{
+    "input_dim": 102,
+    "max_epochs": 1000,
+    "n_samples": 50000,
+    "lr": 5e-05,
+    "wd": 0.0,
+    "hidden_layer_size": 16,
+    "model_dir": "/root/model_results_adult_sep_eo",
+    "model_dir_eop": "/root/model_results_sep_eop",
+    "ax_lims": [0.74, 0.85],
+    "ax_lims_y": [-0.001, 0.2],
+    "ax_lims_y_eop": [-0.001, 0.2]
+}

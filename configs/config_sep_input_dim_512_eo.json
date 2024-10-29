@@ -1,0 +1,13 @@
+{
+    "input_dim": 512,
+    "max_epochs": 3,
+    "n_samples": 190000,
+    "lr": 0.001,
+    "wd": 0.0,
+    "hidden_layer_size": 16,
+    "model_dir": "/root/model_results_sep_jigsaw_eo_run2",
+    "model_dir_eop": "/root/model_results_sep_jigsaw_eop_run4_2",
+    "ax_lims": [0.50, 0.75],
+    "ax_lims_y": [-0.001, 0.06],
+    "ax_lims_y_eop": [-0.001, 0.07]
+}

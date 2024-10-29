@@ -1,0 +1,9 @@
+{
+    "input_dim": 1,
+    "max_epochs": 1000,
+    "n_samples": 10000,
+    "lr": 5e-05,
+    "wd": 0.0,
+    "hidden_layer_size": 16,
+    "model_dir": "/root/model_results_sep_synth1d"
+}

@@ -1,0 +1,13 @@
+{
+    "input_dim": 102,
+    "max_epochs": 1000,
+    "n_samples": 190000,
+    "lr": 0.001,
+    "hidden_layer_size": 1,
+    "film_hidden_size": 4,
+    "n_layers_film": 2,
+    "lambda_lb": 1e-05,
+    "lambda_ub": 10.0,
+    "per_batch_lambda": true,
+    "model_dir": "/root/model_results_yoto_compasnadult_dp"
+}

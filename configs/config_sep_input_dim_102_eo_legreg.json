@@ -1,0 +1,10 @@
+{
+    "input_dim": 102,
+    "max_epochs": 1000,
+    "n_samples": 190000,
+    "lr": 0.001,
+    "wd": 0.0,
+    "hidden_layer_size": 1,
+    "model_dir": "/root/model_results_sep_compasnadult_eo",
+    "model_dir_eop": "/root/model_results_sep_compasnadult_eop"
+}

@@ -1,0 +1,13 @@
+fairlearn==0.10.0
+matplotlib==3.3.0
+pandas==2.0.3
+Pillow==10.2.0
+plotly==5.18.0
+Requests==2.31.0
+scikit_learn==1.2.1
+seaborn==0.11.1
+torch==1.8.0
+torchvision==0.9.0
+tqdm==4.54.1
+transformers==4.37.0
+wandb==0.16.2
